@@ -1,1 +1,1 @@
-{"v": 2, "name": "Price Teller 2.0", "date": "2026-11-05", "notes": "New: Spl Offer Price tab (discount on MRP for institutional quotes), Institutional customers use the MRP-based calculation, + Add channel next to every channel list, new channels B2B, Power Retailer and CSAC Distributor."}
+{"v": 2.1, "name": "Price Teller 2.1", "date": "2026-11-05", "notes": "October 2026 price list built in: loads automatically once on every device and merges with existing data (nothing is deleted)."}
