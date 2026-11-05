@@ -1,1 +1,1 @@
-{"v": 2.2, "name": "Price Teller 2.2", "date": "2026-11-05", "notes": "Dealer Price Calculator: shows MRP, DP and Basic NLC as soon as the model is found, and calculates without a dealer (enter discounts manually). Saved dealer names now appear in the dealer list."}
+{"v": 3, "name": "Price Teller 3.0", "date": "2026-11-05", "notes": "New: Light / Dark / System setting (Settings, \u2630 menu or Colour style) and a new Pastel Glow colour style. Every colour style now has a light and a dark version."}
