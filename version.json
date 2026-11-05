@@ -1,1 +1,1 @@
-{"v": 2.1, "name": "Price Teller 2.1", "date": "2026-11-05", "notes": "October 2026 price list built in: loads automatically once on every device and merges with existing data (nothing is deleted)."}
+{"v": 2.2, "name": "Price Teller 2.2", "date": "2026-11-05", "notes": "Dealer Price Calculator: shows MRP, DP and Basic NLC as soon as the model is found, and calculates without a dealer (enter discounts manually). Saved dealer names now appear in the dealer list."}
