@@ -1,7 +1,7 @@
-/* Price Teller offline cache – version b01cb209e887
+/* Price Teller offline cache – version 223993fc0725
    First visit stores the app on the device; later it opens instantly, even with no internet.
    When a newer Price Teller is uploaded, it is fetched quietly and used from the next launch. */
-const CACHE = 'price-teller-b01cb209e887';
+const CACHE = 'price-teller-223993fc0725';
 // Only the small files are stored at install, so the phone can offer "Install app" straight away.
 // The big app page is stored right after, in the background.
 const SMALL = ['manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'icon-maskable-512.png', 'apple-touch-icon.png', 'favicon-64.png'];
