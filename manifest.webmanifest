@@ -1,8 +1,8 @@
 {
  "name": "Price Teller",
  "short_name": "Price Teller",
- "description": "Every scheme stacked. Every price exact \u2014 in one tap.",
- "id": "./",
+ "description": "Every scheme stacked. Every price exact — in one tap.",
+ "id": "/Price-Teller/",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
