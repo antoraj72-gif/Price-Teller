@@ -1,1 +1,1 @@
-{"v": 22, "name": "Price Teller 11.0", "date": "2026-11-20", "notes": "Bulk Price Calculator: the CN % now goes only to the models you tick when you tap “Apply to selected rows” – unticked models get no CN. Each model keeps its own CN %, and the CN table, Excel, PDF, Share and Quantity & Value all follow it."}
+{"v": 23, "name": "Price Teller 11.1", "date": "2026-11-21", "notes": "Invite a new user: the WhatsApp / email invite now includes the Price Teller website link, so new users can see what the app does before installing."}
